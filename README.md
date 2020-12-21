@@ -1,3 +1,6 @@
 # Bank Management System
-### Features: Open & display account, deposit & withdraw money.
+### Operations:
+* Open & display account,
+* Deposit & withdraw money.
+
 ![](/img/b1.png)
